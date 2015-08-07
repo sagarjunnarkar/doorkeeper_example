@@ -3,6 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Some setup commands in below link
+https://gist.github.com/sagarjunnarkar/373f82b1699e22d35168
+
 Things you may want to cover:
 
 * Ruby version
